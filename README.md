@@ -4,10 +4,14 @@ This repository contains all lab work for the 1st
  semester course Computer programming.
 The purpose of these labs is to build strong programming fundamentals of C++ concepts 
 Each lab includes simple explanations and beginner-friendly examples to help students understand programming logic.
+
+
 📑 Table of Contents
 Lab List
 Languages & Tools Used
 How to Run the Labs.
+
+
 🧪 Lab List
 No.     Lab name.    Description 
 01:Introduction to C++,  syntax and writing your first program.
@@ -33,7 +37,9 @@ Storing multiple values using one-dimensional arrays.
 Grouping different data types using struct.
 12:Pointers
 Using memory addresses and pointer variable.
-.
+
+
+
 🖥️ Languages & Tools Used
 DEV C++
 VS Code
